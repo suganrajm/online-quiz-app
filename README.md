@@ -7,6 +7,9 @@ A modern, full-stack **Online Quiz Application** built with **React (Vite)** on 
 ![Spring Boot](https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
 
+![gray220416_00_2x](https://github.com/user-attachments/assets/d96d18f3-2f7e-4bb3-9fd8-97c857777f53)
+
+
 ---
 
 ## ✨ Features
