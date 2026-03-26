@@ -7,7 +7,16 @@ A modern, full-stack **Online Quiz Application** built with **React (Vite)** on 
 ![Spring Boot](https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
 
-![gray220416_00_2x](https://github.com/user-attachments/assets/d96d18f3-2f7e-4bb3-9fd8-97c857777f53)
+
+---
+## 🖼️Sample Screenshots
+<img width="1919" height="1079" alt="Screenshot 2026-03-26 123942" src="https://github.com/user-attachments/assets/ca320df1-5d91-4574-a1c0-1ffb2d7acbeb" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-26 124346" src="https://github.com/user-attachments/assets/a8d1be33-cce0-4f3e-a2f2-2600ef38ad54" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-26 124039" src="https://github.com/user-attachments/assets/0a0d64db-3e35-42a3-b46f-2f26c0fbdc9b" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-26 124057" src="https://github.com/user-attachments/assets/e4acefc1-dc38-40d4-9f84-3bf8bd3e25d9" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-26 124122" src="https://github.com/user-attachments/assets/5870595f-4fe1-4f1b-a33b-e37af7443196" />
+
+
 
 
 ---
@@ -21,6 +30,12 @@ A modern, full-stack **Online Quiz Application** built with **React (Vite)** on 
   - User management (View roles, delete accounts).
   - Track every quiz attempt by any user on the platform.
   - Create and edit new quizzes effortlessly.
+<img width="1919" height="1077" alt="Screenshot 2026-03-26 124238" src="https://github.com/user-attachments/assets/0b6ab2f4-b3f4-47a9-a516-9d8da13e7836" />
+<img width="1919" height="516" alt="Screenshot 2026-03-26 124257" src="https://github.com/user-attachments/assets/ad44599e-9d7f-49b0-9f63-96722fa20406" />
+<img width="1919" height="481" alt="Screenshot 2026-03-26 124309" src="https://github.com/user-attachments/assets/9abd8967-3f51-4419-9418-16bed604d4f4" />
+<img width="1919" height="449" alt="Screenshot 2026-03-26 124318" src="https://github.com/user-attachments/assets/a76d292a-4603-4b76-bc42-398326ec7242" />
+
+
 
 ---
 
