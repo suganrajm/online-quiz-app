@@ -1,0 +1,5 @@
+# Ignore IDE metadata
+.idea/
+.vscode/
+
+# Build and Node modules are ignored by sub-directory .gitignore files
